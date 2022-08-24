@@ -1,0 +1,7 @@
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\bin\Examen2JoharieEnriquez.dll.config
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\bin\Examen2JoharieEnriquez.dll
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\bin\Examen2JoharieEnriquez.pdb
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\obj\Debug\Examen2JoharieEnriquez.csproj.AssemblyReference.cache
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\obj\Debug\Examen2JoharieEnriquez.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\obj\Debug\Examen2JoharieEnriquez.dll
+C:\Users\enriq\OneDrive\Documentos\Universidad\2022\2do Cuatrimestre\Programación2_C#\Sesion10_Parcial2\Examen2JoharieEnriquez\Examen2JoharieEnriquez\obj\Debug\Examen2JoharieEnriquez.pdb
