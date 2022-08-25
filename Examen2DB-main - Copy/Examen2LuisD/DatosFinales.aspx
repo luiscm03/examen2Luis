@@ -1,13 +1,12 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MenuPrincipal.Master" AutoEventWireup="true" CodeBehind="DatosFinales.aspx.cs" Inherits="Examen2LuisD.WebForm2" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="css/estilos.css" rel="stylesheet" />
+    
     <fieldset>
-        <legend>Facturación</legend>
+        <legend>Factura</legend>
         <p>
-        Cod Factura:
-        <asp:Label ID="lCodigoFactura" runat="server" Text="Label"></asp:Label><br />
-        Codigo Servicio: <asp:Label ID="lCodigoServ" runat="server" Text=""></asp:Label><br />
+        Codigo de factura: <asp:Label ID="lCodigoFactura" runat="server" Text="Label"></asp:Label><br />
+        Codigo de servicio: <asp:Label ID="lCodigoServ" runat="server" Text=""></asp:Label><br />
         </p> 
         <p>
          Mes:
@@ -27,7 +26,7 @@
         </asp:DropDownList><br />
         </p>
         <p>
-        Monto: <asp:TextBox ID="tMonto" runat="server" OnTextChanged="tMonto_TextChanged"></asp:TextBox>              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Descuento: <asp:TextBox ID="tDescuento" runat="server" OnTextChanged="tDescuento_TextChanged"></asp:TextBox><br />
+        Monto a pagar: <asp:TextBox ID="tMonto" runat="server" OnTextChanged="tMonto_TextChanged"></asp:TextBox>              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              Descuento realizado: <asp:TextBox ID="tDescuento" runat="server" OnTextChanged="tDescuento_TextChanged"></asp:TextBox><br />
         </p>
         <div>
         <asp:Button ID="bAgregar" runat="server" Text="Agregar" OnClick="bAgregar_Click" />
@@ -39,7 +38,7 @@
     </fieldset>
 
     <fieldset>
-        <legend>Clientee</legend>
+        <legend>Informacion del cliente</legend>
         <p>
             Nombre:
             <asp:Label ID="lNombre" runat="server"></asp:Label><br />
@@ -55,7 +54,7 @@
    
         
     <fieldset>
-        <legend>Facturación</legend>   
+        <legend>Facturación correspondiente:</legend>   
         <p>
             Monto: 
             <asp:Label ID="lMonto" runat="server" Text="Label"></asp:Label>

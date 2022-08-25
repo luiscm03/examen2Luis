@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MenuPrincipal.Master" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="Examen2LuisD.WebForm1" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="css/estilos.css" rel="stylesheet" />
+   
     <p>
         Nombre:
         <asp:TextBox ID="tNombre" runat="server" OnTextChanged="tNombre_TextChanged"></asp:TextBox>
@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
         <asp:ImageButton Class="button" ImageUrl="https://previews.123rf.com/images/lineartestpilot/lineartestpilot1603/lineartestpilot160331677/54066387-cable-de-alimentaci%C3%B3n-a-mano-alzada-dibujo-animado-hecho.jpg" runat="server" ID="bCable" Height="90px" Width="212px" OnClick="bCable_Click"/>
 &nbsp;&nbsp;
-        <asp:ImageButton Class="button" ImageUrl="https://w7.pngwing.com/pngs/873/954/png-transparent-telephone-cartoon-cartoon-phone-cartoon-character-comics-mobile-phone.png" runat="server" ID="bTelefono" Height="90px" Width="212px" OnClick="bTelefono_Click" />
+        <asp:ImageButton Class="button" ImageUrl="https://w7.pngwing.com/pngs/873/954/png-transparent-telephone-cartoon-cartoon-phone-cartoon-character-comics-mobile-phone.png" runat="server" ID="bTelefono" Height="75px" Width="197px" OnClick="bTelefono_Click" />
 
     </div>
 </asp:Content>

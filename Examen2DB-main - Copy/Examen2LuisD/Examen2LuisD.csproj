@@ -64,11 +64,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\estilos.css" />
-    <Content Include="images\Agua.png" />
-    <Content Include="images\Cable.jpg" />
-    <Content Include="images\electricidad.png" />
-    <Content Include="images\phone.jpg" />
     <Content Include="Web.config" />
     <Content Include="Inicio.aspx" />
     <Content Include="DatosFinales.aspx" />

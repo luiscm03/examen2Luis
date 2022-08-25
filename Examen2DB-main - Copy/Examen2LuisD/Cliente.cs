@@ -107,11 +107,11 @@ namespace Examen2LuisD
             tipoServi = tServ;
         }
 
-        //
+        
         public static Boolean Guardar()
         {
             Boolean existe = false;
-            //string strConnString = ConfigurationManager.ConnectionStrings["Examen2DBConnectionString"].ConnectionString;
+           
             SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["Examen2DBConnectionString"].ConnectionString);
             try
             {
